@@ -42,15 +42,12 @@ To build a practical system that:
 
 This project is part of my learning journey toward becoming a confident Full Stack Developer.
 
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
 - HTML  
 - CSS  
-- JavaScript  
-- React (if applicable)
+- JavaScript using React
 
 ### Backend
 - React  
@@ -62,9 +59,4 @@ This project is part of my learning journey toward becoming a confident Full Sta
 ### Tools
 - VS Code / IntelliJ  
 - Git & GitHub  
-- Postman  
-
----
-
-## 📂 Project Structure (Example)
 
